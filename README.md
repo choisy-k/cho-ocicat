@@ -1,6 +1,6 @@
 - 👋 Heya, I’m @cho-ocicat!
-- 👀 I’m interested in digital art, especially anime style(s) ᕕ( ᐛ )ᕗ
-- 🌱 Currently learning C#. Hmm, I wonder if I can use it for my interest... (∩⌣̀_⌣́)
+- 👀 Casually interested in digital art (2D art, animation, etc)
+- 🌱 Currently learning C# and SQL ᕕ( ᐛ )ᕗ
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
