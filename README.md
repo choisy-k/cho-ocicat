@@ -1,7 +1,7 @@
 - 👋 Heya, I’m Choisy!
 (pronounced: choice-y)
 - 👀 Casually interested in digital art, specifically 2D art and animation
-- 🌱 Currently learning as an Software Development student ᕕ( ᐛ )ᕗ
+- 🌱 A L6 NZ Diploma Software Development graduate
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
