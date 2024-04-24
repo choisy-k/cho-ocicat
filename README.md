@@ -1,5 +1,5 @@
 - 👋 Heya, I’m Choisy!
-(pronounced: choice-y)
+(pronounced choi-see)
 - 👀 Casually interested in digital art, specifically 2D art and animation
 - 🌱 A L6 NZ Diploma Software Development graduate
 
